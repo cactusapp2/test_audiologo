@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95077470122",
+    "project_id": "audiologoformulario",
+    "storage_bucket": "audiologoformulario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95077470122:android:a370e1b88ee89f9589e5d3",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHkLmasUGJkBua11d2lyuPXky7qsdrHtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
